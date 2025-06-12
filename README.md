@@ -11,7 +11,7 @@ Currently my NRD lists are stored within my "Uninvited Activity" repository, whi
 
 A by-product of 'centralising' my PiHole lists is that it'll be easier to remember them all.
 
-FYI, below is my current set of PiHole DNS block lists. Be warned, there are over 9 million domain anmes blocked. Almost 100% of which come from two lists, the bottom two: My NRD list (~4.5 million) and the Firebog Prigent-Adult list (~4 million):
+FYI, below is my current set of PiHole DNS block lists. Be warned, there are over 9 million domain anmes blocked. Almost 100% of which come from two lists, the bottom two: My NRD list (~4.35 million) and the Firebog Prigent-Adult list (~4.64 million):
 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 - https://v.firebog.net/hosts/Easyprivacy.txt
 - https://v.firebog.net/hosts/Easylist.txt
