@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 27JUN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8532,6 +8532,7 @@ click.pockee.com
 click.quickenloansnow.com
 click.redditmail.com
 click.rollouki.com
+click.rypr.ru
 clicks2.hqo.co
 clicks.6thstreet.com
 clicks.burgerking.co.uk
@@ -14387,7 +14388,6 @@ go.mktgcampaigns.com
 go.moka.ai
 go.morningstar.com
 go.motivcx.com
-go-mpulse.net
 go.muglife.com
 go.multi-conveyor.com
 go.muslim.mingle.com
@@ -16854,6 +16854,7 @@ insights.jackporter.com
 insights.journey.world
 insights.labcorp.com
 insights.morrismohawk.ca
+insights.mtv.a2d.tv
 insights-mxp-cdn.coursecareers.com
 insights.networks.global.fujitsu.com
 insights.nexansdatacenter.com
@@ -17563,6 +17564,7 @@ kiqwal.autoscout24.es
 kiqwil.l-m.co.jp
 kirsrn.runway-webstore.com
 kistacity.viessmann.se
+kit22.com
 kitchen.juicer.cc
 kitesquirrel.com
 kitetuning.com
@@ -19101,6 +19103,7 @@ loudlunch.com
 loveeveryday.brighterkind.com
 lovelydrum.com
 loveseashore.com
+love.vidora.su
 lowercases.com
 lowermybills.actonsoftware.com
 lowgxl.yokumoku.jp
@@ -23955,6 +23958,7 @@ observe.metarouter.io
 observe-nexus.pointandplace.com
 observer.ip-label.net
 obseu.netgreencolumn.com
+obs.system1onesource.com
 obtfhl.bellemaison.jp
 oca.microsoft.com
 o.carmax.com
@@ -25582,6 +25586,7 @@ pt.legalstart.fr
 ptlpel.tui.at
 ptmcos.beginning.kr
 ptrenx.vidaxl.com.au
+p.tryretool.com
 ptsc.shoplocal.com
 ptw-i.actonservice.com
 p.typekit.net
@@ -26533,6 +26538,10 @@ r.skimresources.com
 rs.mail.ru
 rsotku.mitsui-shopping-park.com
 r.sportsie.com
+rsra.cdn-fileserver.com
+rsra-ph.cdn-fileserver.com
+rsras.cdn-fileserver.com
+rsras-ph.cdn-fileserver.com
 rs.sinajs.cn
 rs.smc.tf
 rstat.rockmostbet.com
@@ -32215,6 +32224,7 @@ squirrel.cividi.ch
 squirrel.malaynahocker.com
 squishybears.com
 sr59t7wbx5.claricelin.com
+sra-px.cdn-fileserver.com
 src.freshmarketer.in
 srd1-pdx.net.jumia.ci
 srepdata.12newsnow.com
@@ -32616,7 +32626,6 @@ sstats2.golfdigest.com
 sstats2.gq.com
 sstats2.newyorker.com
 sstats.aavacations.com
-sstats.adobe.com
 sstats.adultswim.com
 sstats.afco.com
 sstats.airfarewatchdog.com
@@ -35949,6 +35958,7 @@ tr.abo.cotemaison.fr
 traccoon.intellectsoft.net
 tr.account.np6.com
 tr.acd-comexpert.fr
+trace.bluemonkey.jp
 trace.insead.edu
 trace.qq.com
 tracer.autoscout24.ch
@@ -38947,6 +38957,7 @@ ulutlv.esprit.fr
 umami.aigenerations.net
 umami.askrella.de
 umami.heroku.uk
+umami.vidfast.pro
 umami.wakarimasen.moe
 umazvs.raybiotech.com
 um.contentstudio.io
@@ -41556,6 +41567,7 @@ your.vissim.ptvgroup.com
 your.vistro.ptvgroup.com
 your.visum.ptvgroup.com
 your.xserver.ptvgroup.com
+youseasky.com
 you.stage.pixellot.link
 yoxeha.afloral.com
 ypbfjo.paulsmith.co.jp
