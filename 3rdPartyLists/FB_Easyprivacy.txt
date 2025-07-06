@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 04JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5238,6 +5238,7 @@ analytics.kellyservices.com
 analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
+analytics.komiku.org
 analytics.kongregate.io
 analytics.laregione.ch
 analytics.lasegunda.ecn.cl
@@ -5471,6 +5472,7 @@ analytics.thehartford.com
 analytics.theinstitutes.org
 analytics.themarketiq.com
 analytics.threedeepmarketing.com
+analytics.ticimax.cloud
 analytics.ticinolibero.ch
 analytics.tiktok.com
 analytics.tio.ch
@@ -5587,7 +5589,6 @@ analytic.underarmour.com
 analyt.ir
 analyzecorona.com
 analyzer2.fc2.com
-analyzer51.fc2.com
 analyzer.fc2.com
 anapp.adobe.com
 ana.skypemeet.net
@@ -11664,6 +11665,7 @@ eclick.baidu.com
 ecn-analytics.emc.com
 ecn-analytics-nssl.emc.com
 ecn-ldr.de
+ecommerce-events.adscale.com
 ecomm.events
 ecommstats.s3.amazonaws.com
 econnect.actonservice.com
@@ -13740,6 +13742,7 @@ generateoffice.com
 genesis.malwarebytes.com
 gentian-frd.hjapi.com
 geobar.ziffdavisinternational.com
+geo.bdg.com
 geo.brobible.com
 geoedge.be
 geo.emol.cl
@@ -16920,6 +16923,7 @@ internalcondition.com
 internal-e.posthog.com
 internal.hcltech.com
 internalsink.com
+internal-t.posthog.com
 international.edc.ca
 internationalpayments.americanexpress.com
 international.wandw.ac.nz
@@ -17634,6 +17638,7 @@ kpcyic.sportisimo.cz
 kpfvaq.schuhe.de
 kqchxa.denizbutik.com
 kqdqrj.traktorpool.de
+kqefj.clearstem.com
 kqhckf.outfits24.de
 kqkcoq.vidaxl.fr
 kqkydl.postel-deluxe.ru
@@ -24915,7 +24920,6 @@ photohints.com
 phpmyadmin.toolmonger.net.jumia.co.tz
 phpstat.cntcm.com.cn
 phsmobile.actonservice.com
-ph.thenextweb.com
 phvylw.beurer-shop.de
 phyins.actonservice.com
 physicstees.com
@@ -34195,6 +34199,7 @@ stupidscene.com
 stupidsnake.com
 sturdysnail.com
 sturton-lation.com
+stw.extrem-down.zone
 st.wir-entdecken-bayern.de
 styles.hautelook.com
 stylishbuds.com
@@ -38956,7 +38961,9 @@ ultund.misterspex.nl
 ulutlv.esprit.fr
 umami.aigenerations.net
 umami.askrella.de
+umami.flixer.su
 umami.heroku.uk
+umami.spencerdevs.xyz
 umami.vidfast.pro
 umami.wakarimasen.moe
 umazvs.raybiotech.com
