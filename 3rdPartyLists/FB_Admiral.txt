@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 14JUL25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 23JUL25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -40,7 +40,6 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
-admiralcdnstaging.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -336,7 +335,6 @@ cozydusk.com
 cozyhillside.com
 cozytryst.com
 crabbychin.com
-crackedsafe.com
 crafthenry.com
 crashchance.com
 cratecamera.com
@@ -423,6 +421,7 @@ digestiondrawer.com
 digithalo.com
 dinnerquartz.com
 direfuldesk.com
+disagreeabledrop.com
 discreetfield.com
 discreetquarter.com
 distributionneck.com
@@ -518,6 +517,7 @@ extralocker.com
 extramonies.com
 exuberantedge.com
 fabcharting.com
+fabledsoul.com
 facilitatebreakfast.com
 fadedsnow.com
 fairfeeling.com
@@ -602,8 +602,6 @@ frequentflesh.com
 friedone.com
 friendlycrayon.com
 friendlyfold.com
-frogator.com
-frogtray.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -758,7 +756,6 @@ incomehippo.com
 incompetentjoke.com
 inconclusiveaction.com
 infamousstream.com
-innatecomb.com
 innocentlamp.com
 inputicicle.com
 inquisitiveice.com
@@ -1178,6 +1175,7 @@ reconditerake.com
 reconditerespect.com
 redbricksoap.com
 reflectpaint.com
+refundradar.com
 regexmail.com
 regularplants.com
 regulatesleet.com
@@ -1190,7 +1188,6 @@ remixslot.com
 rentinfinity.com
 repeatsweater.com
 replaceroute.com
-repulsiverequest.com
 resonantbrush.com
 resonantrock.com
 respectrain.com
@@ -1343,12 +1340,14 @@ siliconslow.com
 sillyscrew.com
 simplenaming.com
 simplesidewalk.com
+simplisticnose.com
 simulateswing.com
 sincerebuffalo.com
 sincerepelican.com
 sinceresubstance.com
 singroot.com
 sinkportal.com
+sittingpets.com
 sixauthority.com
 sixscissors.com
 sizzlingsmoke.com
@@ -1607,7 +1606,6 @@ toytakeover.com
 tracecontent.com
 traderbyte.com
 tradetooth.com
-trafficviews.com
 tranquilcan.com
 tranquilcanyon.com
 tranquilplume.com
@@ -1643,6 +1641,7 @@ unarmedindustry.com
 unbecominghall.com
 unbecominglamp.com
 uncoveredexpert.com
+understoodocean.com
 unequalbrake.com
 unequaltrail.com
 unicontainers.com
@@ -1677,9 +1676,12 @@ verifyvegetable.com
 verseballs.com
 vibrantcelebration.com
 vibrantgale.com
+vibranthaven.com
 vibrantpact.com
 vibrantskyline.com
 vibrantsundown.com
+vibranttalisman.com
+vibrantvale.com
 victoriousrequest.com
 victoryideas.com
 virtualvincent.com
