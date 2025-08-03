@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Sat, 26 Jul 2025 18:36:32 GMT</b></td>
+<td><b class=blue>Wed, 30 Jul 2025 07:30:29 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3422 / 3422</b></td>
+<td><b class=blue>3419 / 3419</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 26 Jul 2025 18:36:32 GMT
-# entries:        3422
+# last updated:   Wed, 30 Jul 2025 07:30:29 GMT
+# entries:        3419
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -88,7 +88,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # start date:    Fri, 06 Jun 2003 00:00:00
 127.0.0.1 101com.com
-127.0.0.1 180hits.de
 127.0.0.1 180searchassistant.com
 127.0.0.1 1rx.io
 127.0.0.1 2020mustang.com
@@ -571,6 +570,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.mic.com
 127.0.0.1 ads.mmania.com
 127.0.0.1 ads.mobilebet.com
+127.0.0.1 ads.mozilla.org
 127.0.0.1 ads.msn.com
 127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.muslimehelfen.org
@@ -691,7 +691,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1.mediacapital.pt
 127.0.0.1 ads1.msn.com
-127.0.0.1 ads1.rne.com
 127.0.0.1 ads1.virtual-nights.com
 127.0.0.1 ads10.speedbit.com
 127.0.0.1 ads180.com
@@ -700,7 +699,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads2.femmefab.nl
 127.0.0.1 ads2.gamecity.net
 127.0.0.1 ads2.hsoub.com
-127.0.0.1 ads2.rne.com
 127.0.0.1 ads2.virtual-nights.com
 127.0.0.1 ads2.webdrive.no
 127.0.0.1 ads2.xnet.cz
@@ -1304,7 +1302,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cjlog.com
 127.0.0.1 cl.turkishairlines.com
 127.0.0.1 cl0udh0st1ng.com
-127.0.0.1 claria.com
 127.0.0.1 clck.ru
 127.0.0.1 clevernt.com
 127.0.0.1 click-1.pl
@@ -1514,7 +1511,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dakic-ia-300.com
 127.0.0.1 damageddistance.com
 127.0.0.1 damdoor.com
-127.0.0.1 dancemistake.com
 127.0.0.1 dapper.net
 127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 datenow.link
@@ -1525,7 +1521,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 decisivebase.com
 127.0.0.1 decisivedrawer.com
 127.0.0.1 decknetwork.net
-127.0.0.1 decoycreation.com
 127.0.0.1 deepintent.com
 127.0.0.1 delicatecascade.com
 127.0.0.1 deloo.de
@@ -3321,6 +3316,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 unwieldyhealth.com
 127.0.0.1 unwieldyimpulse.com
 127.0.0.1 upu.samsungelectronics.com
+127.0.0.1 urbanlaurel.com
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
@@ -3349,6 +3345,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 venturead.com
 127.0.0.1 vericlick.com
 127.0.0.1 vertamedia.com
+127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vgnp3trk.com
 127.0.0.1 vibrantsundown.com
