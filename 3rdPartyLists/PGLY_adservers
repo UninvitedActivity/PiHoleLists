@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Wed, 30 Jul 2025 07:30:29 GMT</b></td>
+<td><b class=blue>Tue, 05 Aug 2025 08:46:19 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3419 / 3419</b></td>
+<td><b class=blue>3420 / 3420</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 30 Jul 2025 07:30:29 GMT
-# entries:        3419
+# last updated:   Tue, 05 Aug 2025 08:46:19 GMT
+# entries:        3420
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -3130,6 +3130,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 thebugs.ws
+127.0.0.1 themangotea.com
 127.0.0.1 themoneytizer.com
 127.0.0.1 therapistla.com
 127.0.0.1 thinkitten.com
