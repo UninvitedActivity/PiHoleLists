@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Tue, 05 Aug 2025 08:46:19 GMT</b></td>
+<td><b class=blue>Tue, 05 Aug 2025 15:17:49 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3420 / 3420</b></td>
+<td><b class=blue>3419 / 3419</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Tue, 05 Aug 2025 08:46:19 GMT
-# entries:        3420
+# last updated:   Tue, 05 Aug 2025 15:17:49 GMT
+# entries:        3419
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -724,6 +724,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsbydelema.com
 127.0.0.1 adscale.de
 127.0.0.1 adscholar.com
+127.0.0.1 adscience.nl
 127.0.0.1 adsco.re
 127.0.0.1 adscpm.com
 127.0.0.1 adsdaq.com
@@ -1397,7 +1398,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cmp.dmgmediaprivacy.co.uk
 127.0.0.1 cmvrclicks000.com
 127.0.0.1 cnomy.com
-127.0.0.1 cnt.spbland.ru
 127.0.0.1 cnt1.pocitadlo.cz
 127.0.0.1 cnvlink.com
 127.0.0.1 cny.yoyo.org
@@ -1705,7 +1705,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 faultycanvas.com
 127.0.0.1 fave.co
 127.0.0.1 fc.webmasterpro.de
-127.0.0.1 feathr.co
 127.0.0.1 feedbackresearch.com
 127.0.0.1 feedjit.com
 127.0.0.1 feedmob.com
@@ -2120,7 +2119,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 liveadexchanger.com
 127.0.0.1 liveintent.com
 127.0.0.1 livelylaugh.com
-127.0.0.1 livelyreward.com
 127.0.0.1 liverail.com
 127.0.0.1 livingsleet.com
 127.0.0.1 lizardslaugh.com
@@ -2551,6 +2549,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 pointroll.com
 127.0.0.1 pokkt.com
 127.0.0.1 polishedfolly.com
+127.0.0.1 polo.feathr.co
 127.0.0.1 popads.net
 127.0.0.1 popcash.net
 127.0.0.1 popmyads.com
