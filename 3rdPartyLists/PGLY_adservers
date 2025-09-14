@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Thu, 21 Aug 2025 10:33:04 GMT</b></td>
+<td><b class=blue>Thu, 11 Sep 2025 11:18:09 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3418 / 3418</b></td>
+<td><b class=blue>3421 / 3421</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 21 Aug 2025 10:33:04 GMT
-# entries:        3418
+# last updated:   Thu, 11 Sep 2025 11:18:09 GMT
+# entries:        3421
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -836,7 +836,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsys.townnews.com
 127.0.0.1 adsystem.simplemachines.org
 127.0.0.1 adt598.com
-127.0.0.1 adtech-digital.ru
 127.0.0.1 adtech.com
 127.0.0.1 adtech.de
 127.0.0.1 adtechjp.com
@@ -1858,6 +1857,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 helpcollar.com
 127.0.0.1 hentaicounter.com
 127.0.0.1 herbalaffiliateprogram.com
+127.0.0.1 hexcan.com
 127.0.0.1 hexusads.fluent.ltd.uk
 127.0.0.1 heyos.com
 127.0.0.1 hf5rbejvpwds.com
@@ -2042,6 +2042,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kpu.samsungelectronics.com
 127.0.0.1 krxd.net
 127.0.0.1 ktu.sv2.biz
+127.0.0.1 kvsadman.com
 127.0.0.1 l1.britannica.com
 127.0.0.1 lakequincy.com
 127.0.0.1 lameletters.com
@@ -2058,6 +2059,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 leadclick.com
 127.0.0.1 leadinfo.net
 127.0.0.1 leadingedgecash.com
+127.0.0.1 leadplace.fr
 127.0.0.1 leadspace.com
 127.0.0.1 leadzupc.com
 127.0.0.1 leaplunchroom.com
@@ -3130,6 +3132,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 theadex.com
 127.0.0.1 theadhost.com
 127.0.0.1 thebugs.ws
+127.0.0.1 thecrazychili.com
 127.0.0.1 themangotea.com
 127.0.0.1 themoneytizer.com
 127.0.0.1 therapistla.com
