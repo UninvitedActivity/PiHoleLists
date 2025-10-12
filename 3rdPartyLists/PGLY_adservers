@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Fri, 19 Sep 2025 21:30:35 GMT</b></td>
+<td><b class=blue>Sat, 11 Oct 2025 23:27:17 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3440 / 3440</b></td>
+<td><b class=blue>3438 / 3438</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 19 Sep 2025 21:30:35 GMT
-# entries:        3440
+# last updated:   Sat, 11 Oct 2025 23:27:17 GMT
+# entries:        3438
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -125,6 +125,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 a.ucoz.net
 127.0.0.1 a.ucoz.ru
 127.0.0.1 a.vartoken.com
+127.0.0.1 a.vdo.ai
 127.0.0.1 a.vfghd.com
 127.0.0.1 a.vfgtb.com
 127.0.0.1 a.xanga.com
@@ -148,6 +149,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 abtasty.com
 127.0.0.1 ac.rnm.ca
 127.0.0.1 accountsdoor.com
+127.0.0.1 acebunny.com
 127.0.0.1 acemlnb.com
 127.0.0.1 acobt.tech
 127.0.0.1 acridtwist.com
@@ -282,6 +284,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 add.newmedia.cz
 127.0.0.1 addfreestats.com
 127.0.0.1 addme.com
+127.0.0.1 ade.clmbtech.com
 127.0.0.1 adecn.com
 127.0.0.1 adeimptrck.com
 127.0.0.1 ademails.com
@@ -305,6 +308,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adhese.com
 127.0.0.1 adhigh.net
 127.0.0.1 adhoc4.net
+127.0.0.1 adhub.media
 127.0.0.1 adhunter.media
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
@@ -361,7 +365,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 admidadsp.com
 127.0.0.1 adminder.com
 127.0.0.1 adminshop.com
-127.0.0.1 admix.in
 127.0.0.1 admixer.net
 127.0.0.1 admized.com
 127.0.0.1 admob.com
@@ -438,7 +441,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.as4x.tmcs.net
 127.0.0.1 ads.as4x.tmcs.ticketmaster.com
 127.0.0.1 ads.asiafriendfinder.com
-127.0.0.1 ads.aspalliance.com
 127.0.0.1 ads.avazu.net
 127.0.0.1 ads.bb59.ru
 127.0.0.1 ads.betfair.com
@@ -478,7 +480,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
-127.0.0.1 ads.directionsmag.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.dtpnetwork.biz
@@ -798,6 +799,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adsfac.net
 127.0.0.1 adsfac.us
 127.0.0.1 adsfeed.brabys.com
+127.0.0.1 adsflowprime.top
 127.0.0.1 adshrink.it
 127.0.0.1 adside.com
 127.0.0.1 adsiduous.com
@@ -897,7 +899,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adxpose.com
 127.0.0.1 adyoulike.com
 127.0.0.1 adz.rashflash.com
-127.0.0.1 adz2you.com
 127.0.0.1 adzbazar.com
 127.0.0.1 adzerk.net
 127.0.0.1 adzerk.s3.amazonaws.com
@@ -930,6 +931,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ahalogy.com
 127.0.0.1 aheadday.com
 127.0.0.1 aim4media.com
+127.0.0.1 airplanecoffee.com
 127.0.0.1 airpush.com
 127.0.0.1 aistat.net
 127.0.0.1 ak0gsh40.com
@@ -1082,7 +1084,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banner.nixnet.cz
 127.0.0.1 banner.noblepoker.com
 127.0.0.1 banner.northsky.com
-127.0.0.1 banner.rbc.ru
 127.0.0.1 banner.reinstil.de
 127.0.0.1 banner.tanto.de
 127.0.0.1 banner.titan-dsl.de
@@ -1167,7 +1168,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
-127.0.0.1 bigreal.org
 127.0.0.1 billboard.cz
 127.0.0.1 birthdaybelief.com
 127.0.0.1 bitmedianetwork.com
@@ -1305,8 +1305,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 cl0udh0st1ng.com
 127.0.0.1 clck.ru
 127.0.0.1 clevernt.com
-127.0.0.1 click-1.pl
-127.0.0.1 click-2.eu
 127.0.0.1 click.airmalta-mail.com
 127.0.0.1 click.aliexpress.com
 127.0.0.1 click.allkeyshop.com
@@ -1365,6 +1363,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 clickhereforcellphones.com
 127.0.0.1 clickngo.pro
 127.0.0.1 clickonometrics.pl
+127.0.0.1 clicks.checkatrade.com
 127.0.0.1 clicks.deliveroo.co.uk
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.eventbrite.com
@@ -1589,6 +1588,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 easyhits4u.com
 127.0.0.1 ebayadvertising.com
 127.0.0.1 ebuzzing.com
+127.0.0.1 echoacloud.com
 127.0.0.1 ecircle-ag.com
 127.0.0.1 ecleneue.com
 127.0.0.1 eclick.vn
@@ -1768,7 +1768,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 furryfork.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
-127.0.0.1 futuristicapparatus.com
 127.0.0.1 futuristicfifth.com
 127.0.0.1 futuristicframe.com
 127.0.0.1 fuzzybasketball.com
@@ -1837,6 +1836,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 greystripe.com
 127.0.0.1 grouchybrothers.com
 127.0.0.1 groundtruth.com
+127.0.0.1 growthrx.in
 127.0.0.1 gscontxt.net
 127.0.0.1 guardeddirection.com
 127.0.0.1 guardedschool.com
@@ -1948,7 +1948,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 images-pw.secureserver.net
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
-127.0.0.1 immensehoney.com
 127.0.0.1 imonomy.com
 127.0.0.1 imp.i312864.net
 127.0.0.1 impossibleexpansion.com
@@ -2037,6 +2036,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kickoffo.site
 127.0.0.1 kindads.com
 127.0.0.1 kissmetrics.com
+127.0.0.1 kittycatking.com
 127.0.0.1 klclick.com
 127.0.0.1 klclick1.com
 127.0.0.1 kliks.nl
@@ -2052,7 +2052,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 kvsadman.com
 127.0.0.1 l1.britannica.com
-127.0.0.1 lakequincy.com
 127.0.0.1 lameletters.com
 127.0.0.1 landkarts.com
 127.0.0.1 larati.net
@@ -2091,7 +2090,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 li.patheos.com
 127.0.0.1 li.pmc.com
 127.0.0.1 li.realtor.com
-127.0.0.1 li.walmart.com
 127.0.0.1 li.ziffimages.com
 127.0.0.1 liadm.com
 127.0.0.1 libraryfacts.com
@@ -2388,6 +2386,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 nondescriptnote.com
 127.0.0.1 nondescriptstocking.com
 127.0.0.1 novem.pl
+127.0.0.1 nowaymail.com
 127.0.0.1 npttech.com
 127.0.0.1 nr-data.net
 127.0.0.1 nr.mmcdn.com
@@ -2430,7 +2429,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 omtrdc.net
 127.0.0.1 onaudience.com
 127.0.0.1 onclickads.net
-127.0.0.1 oneandonlynetwork.com
 127.0.0.1 onegg.site
 127.0.0.1 onestat.com
 127.0.0.1 onestatfree.com
@@ -2593,6 +2591,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 predictad.com
 127.0.0.1 premium-offers.com
 127.0.0.1 presetrabbits.com
+127.0.0.1 prettyeasycafe.com
 127.0.0.1 previousplayground.com
 127.0.0.1 prf.hn
 127.0.0.1 priceypies.com
@@ -3053,6 +3052,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 summerobject.com
 127.0.0.1 sumo.com
 127.0.0.1 sumome.com
+127.0.0.1 sunsetcampfires.com
 127.0.0.1 superawesome.tv
 127.0.0.1 superchichair.com
 127.0.0.1 superclix.de
@@ -3301,7 +3301,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 truehits1.gits.net.th
 127.0.0.1 truehits2.gits.net.th
 127.0.0.1 trust.titanhq.com
-127.0.0.1 trustpid.com
 127.0.0.1 trustx.org
 127.0.0.1 tsyndicate.com
 127.0.0.1 tsyndicate.net
@@ -3341,7 +3340,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 url9467.comms-2.zoopla.co.uk
 127.0.0.1 urlcash.net
 127.0.0.1 us.a1.yimg.com
-127.0.0.1 userreplay.com
 127.0.0.1 userreplay.net
 127.0.0.1 users.maxcluster.net
 127.0.0.1 utils.mediageneral.net
@@ -3373,6 +3371,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com
 127.0.0.1 videoadex.com
+127.0.0.1 videoadstech.org
 127.0.0.1 videoegg.com
 127.0.0.1 videostats.kakao.com
 127.0.0.1 vidible.tv
@@ -3525,7 +3524,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 zonewedgeshaft.com
 127.0.0.1 zpu.samsungelectronics.com
 127.0.0.1 zqtk.net
-127.0.0.1 zy16eoat1w.com
 127.0.0.1 zzhc.vnet.cn
 </pre>
 
