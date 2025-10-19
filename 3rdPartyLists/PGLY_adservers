@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Sat, 11 Oct 2025 23:27:17 GMT</b></td>
+<td><b class=blue>Fri, 17 Oct 2025 08:38:46 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3438 / 3438</b></td>
+<td><b class=blue>3439 / 3439</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 11 Oct 2025 23:27:17 GMT
-# entries:        3438
+# last updated:   Fri, 17 Oct 2025 08:38:46 GMT
+# entries:        3439
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -413,7 +413,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads-game-187f4.firebaseapp.com
 127.0.0.1 ads-img.mozilla.org
 127.0.0.1 ads-portal-cdn.vidaatv.net
-127.0.0.1 ads-trk.vidible.tv
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads.365.mk
 127.0.0.1 ads.5ci.lt
@@ -482,7 +481,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.digitalpoint.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
-127.0.0.1 ads.dtpnetwork.biz
 127.0.0.1 ads.eagletribune.com
 127.0.0.1 ads.easy-forex.com
 127.0.0.1 ads.economist.com
@@ -529,7 +527,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.hearstmags.com
 127.0.0.1 ads.heartlight.org
 127.0.0.1 ads.hollywood.com
-127.0.0.1 ads.horsehero.com
 127.0.0.1 ads.hsoub.com
 127.0.0.1 ads.ibest.com.br
 127.0.0.1 ads.ibryte.com
@@ -1075,7 +1072,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 banner.cotedazurpalace.com
 127.0.0.1 banner.easyspace.com
 127.0.0.1 banner.elisa.net
-127.0.0.1 banner.eurogrand.com
 127.0.0.1 banner.finzoom.ro
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.inyourpocket.com
@@ -1250,6 +1246,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 carambo.la
 127.0.0.1 carbonads.com
 127.0.0.1 carbonads.net
+127.0.0.1 cardmethod.com
 127.0.0.1 caringcast.com
 127.0.0.1 cartstack.com
 127.0.0.1 carvecakes.com
@@ -1540,7 +1537,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 digestiondrawer.com
 127.0.0.1 digital-ads.s3.amazonaws.com
 127.0.0.1 direct-events-collector.spot.im
-127.0.0.1 direct-re2.pl
 127.0.0.1 directaclick.com
 127.0.0.1 directorym.com
 127.0.0.1 discountclick.com
@@ -1765,6 +1761,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 functionalfeather.com
 127.0.0.1 funklicks.com
 127.0.0.1 funnelytics.io
+127.0.0.1 funtoyplanet.com
 127.0.0.1 furryfork.com
 127.0.0.1 fusionads.net
 127.0.0.1 fusionquest.com
@@ -1844,6 +1841,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 h-bid.com
 127.0.0.1 h-trck.com
 127.0.0.1 h0.t.hubspotemail.net
+127.0.0.1 haikusoap.com
 127.0.0.1 halcyoncanyon.com
 127.0.0.1 haltingbadge.com
 127.0.0.1 hammerhearing.com
@@ -2035,6 +2033,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kargo.com
 127.0.0.1 kickoffo.site
 127.0.0.1 kindads.com
+127.0.0.1 kindlereunion.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kittycatking.com
 127.0.0.1 klclick.com
@@ -2270,6 +2269,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 milotree.com
 127.0.0.1 mineinvoice.com
 127.0.0.1 minewhat.com
+127.0.0.1 minibilling.com
 127.0.0.1 mintegral.com
 127.0.0.1 mittencattle.com
 127.0.0.1 mix2ads.com
@@ -2683,6 +2683,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 r3.visualwebsiteoptimizer.com
 127.0.0.1 raac33.net
 127.0.0.1 rabbitrifle.com
+127.0.0.1 rackforstorage.com
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radiate.com
 127.0.0.1 radiateprose.com
@@ -3374,7 +3375,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 videoadstech.org
 127.0.0.1 videoegg.com
 127.0.0.1 videostats.kakao.com
-127.0.0.1 vidible.tv
 127.0.0.1 vidora.com
 127.0.0.1 view4cash.de
 127.0.0.1 viglink.com
@@ -3499,6 +3499,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ymetrica1.com
 127.0.0.1 yoads.net
 127.0.0.1 yoggrt.com
+127.0.0.1 youcandrawanything.com
 127.0.0.1 youradexchange.com
 127.0.0.1 ypu.samsungelectronics.com
 127.0.0.1 zangocash.com
