@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Fri, 07 Nov 2025 17:16:36 GMT</b></td>
+<td><b class=blue>Fri, 14 Nov 2025 13:42:01 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3468 / 3468</b></td>
+<td><b class=blue>3480 / 3480</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 07 Nov 2025 17:16:36 GMT
-# entries:        3468
+# last updated:   Fri, 14 Nov 2025 13:42:01 GMT
+# entries:        3480
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -335,7 +335,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adjuggler.yourdictionary.com
 127.0.0.1 adjust.com
 127.0.0.1 adjustnetwork.com
-127.0.0.1 adk2.co
 127.0.0.1 adk2.com
 127.0.0.1 adland.ru
 127.0.0.1 adlegend.com
@@ -479,6 +478,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.digital-digest.com
 127.0.0.1 ads.digitalmedianet.com
 127.0.0.1 ads.digitalpoint.com
+127.0.0.1 ads.directionsmag.com
 127.0.0.1 ads.doit.com.cn
 127.0.0.1 ads.domeus.com
 127.0.0.1 ads.eagletribune.com
@@ -802,6 +802,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adskeeper.co.uk
 127.0.0.1 adskeeper.com
 127.0.0.1 adsklick.de
+127.0.0.1 adskpak.com
 127.0.0.1 adsmart.net
 127.0.0.1 adsmartracker.com
 127.0.0.1 adsmetadata.startappservice.com
@@ -1164,6 +1165,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 big-bang-ads.com
 127.0.0.1 bigbangmedia.com
 127.0.0.1 bigclicks.com
+127.0.0.1 bigreal.org
 127.0.0.1 bigworldfashion.com
 127.0.0.1 billboard.cz
 127.0.0.1 billtable.com
@@ -1174,6 +1176,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 bizrate.com
 127.0.0.1 bizzclick.com
 127.0.0.1 bkrtx.com
+127.0.0.1 bleachbubble.com
 127.0.0.1 blingbucks.com
 127.0.0.1 blis.com
 127.0.0.1 blockadblock.com
@@ -1408,6 +1411,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 collector-dev.cdp-dev.cnn.com
 127.0.0.1 collector.cdp.cnn.com
 127.0.0.1 colonize.com
+127.0.0.1 colorfulpet.com
 127.0.0.1 comfortablecheese.com
 127.0.0.1 commindo-media-ressourcen.de
 127.0.0.1 commissionmonster.com
@@ -1532,6 +1536,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 demandbase.com
 127.0.0.1 demdex.net
 127.0.0.1 deployads.com
+127.0.0.1 desertgates.com
 127.0.0.1 desiredirt.com
 127.0.0.1 detailedgovernment.com
 127.0.0.1 detectdiscovery.com
@@ -1572,6 +1577,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 dpbolvw.net
 127.0.0.1 dpu.samsungelectronics.com
 127.0.0.1 dq95d35.com
+127.0.0.1 dragonbats.com
 127.0.0.1 drumcash.com
 127.0.0.1 dsp.colpirio.com
 127.0.0.1 dsp.io
@@ -1745,6 +1751,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 fpctraffic.com
 127.0.0.1 fpjs.io
 127.0.0.1 fqtag.com
+127.0.0.1 fraysystems.com
 127.0.0.1 free-counter.co.uk
 127.0.0.1 freebanner.com
 127.0.0.1 freecounterstat.com
@@ -2006,6 +2013,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 irchan.com
 127.0.0.1 ireklama.cz
 127.0.0.1 is-tracking-pixel-api-prod.appspot.com
+127.0.0.1 islandwebhelp.com
 127.0.0.1 itop.cz
 127.0.0.1 its-that-easy.com
 127.0.0.1 ivwbox.de
@@ -2042,6 +2050,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 kameleoon.eu
 127.0.0.1 kanoodle.com
 127.0.0.1 kargo.com
+127.0.0.1 kernellife.com
 127.0.0.1 kickoffo.site
 127.0.0.1 kindads.com
 127.0.0.1 kindlereunion.com
@@ -2349,6 +2358,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 mylink-today.com
 127.0.0.1 mypagerank.net
 127.0.0.1 mypowermall.com
+127.0.0.1 mysketchpad.com
 127.0.0.1 mystat-in.net
 127.0.0.1 mystat.pl
 127.0.0.1 mytop-in.net
@@ -2895,6 +2905,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sexcounter.com
 127.0.0.1 sexlist.com
 127.0.0.1 sextracker.com
+127.0.0.1 shadowmade.com
 127.0.0.1 shakegoldfish.com
 127.0.0.1 shareasale.com
 127.0.0.1 sharethrough.com
@@ -3016,6 +3027,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 starffa.com
 127.0.0.1 starkscale.com
 127.0.0.1 starrynets.com
+127.0.0.1 starsmarter.com
 127.0.0.1 startapp.com
 127.0.0.1 stat-track.com
 127.0.0.1 stat.cliche.se
@@ -3203,7 +3215,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 tm.br.de
 127.0.0.1 tnkexchange.com
 127.0.0.1 tns-counter.ru
-127.0.0.1 to-go1.eu
 127.0.0.1 toolforthought.com
 127.0.0.1 top-casting-termine.de
 127.0.0.1 top-site-list.com
@@ -3485,6 +3496,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 woopra.com
 127.0.0.1 worldwide-cash.net
 127.0.0.1 worriednumber.com
+127.0.0.1 writerhubs.com
 127.0.0.1 wt-eu02.net
 127.0.0.1 wt.bankmillennium.pl
 127.0.0.1 www-banner.chat.ru

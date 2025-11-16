@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07NOV25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 14NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7270,6 +7270,7 @@ bat.bing.net
 bat.maydream.com
 baton.cuetv.online
 bats.video.yahoo.com
+battlekite.com
 battlenet.openapp.link
 bavvgo.zingat.com
 bawdybalance.com
@@ -7334,6 +7335,7 @@ beacon.aimtell.com
 beacon.cdnma.com
 beacon.cdn.qq.com
 beaconcdn.qq.com
+beacon.coofis.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
@@ -8508,6 +8510,7 @@ cksfgh.jaycar.com.au
 ckygge.mohd.it
 ckyhec.maxisport.com
 clammychicken.com
+cland.fyi
 clanker-events.squarespace.com
 clariant.actonservice.com
 clarice.streema.com
@@ -8688,6 +8691,7 @@ clnmetrics.cisco.com
 clohzp.hifi.lu
 cloisteredcurve.com
 c.lolamarket.com
+cloudchickens.com
 cloud.diagral.fr
 cloudfront-labs.amazonaws.com
 cloudguppy.com
@@ -8918,6 +8922,7 @@ collegeauthority.actonservice.com
 college.business.oregonstate.edu
 colliers.actonservice.com
 coloradoserves.com
+colorfulpet.com
 coloringisland.com
 colors.chamoji.com
 colossalclouds.com
@@ -9521,6 +9526,7 @@ crafthenry.com
 crashchance.com
 cratecamera.com
 crawford-industries.actonservice.com
+createdip.com
 create.encoreglobal.com
 create.encore-mx.com
 creationagency.actonservice.com
@@ -10749,6 +10755,7 @@ demo.emaillpb.adobe.com
 demo.gomi.do
 demojobsapp.epoise.com
 demo-mktg.vodafone.com
+demorewards.com
 de.mywd.com
 denpjz.jamesedition.com
 denver.thexlife.co
@@ -10759,6 +10766,7 @@ deployinput.com
 descargar.billeteramango.com
 descargar.telocompro.com.bo
 descarga.veikul.com
+desertgates.com
 de.sharpmarketing.eu
 design.informabi.com
 design.nanawall.com
@@ -11316,6 +11324,7 @@ doggieshome.com
 doh.cq0.co
 dohmen.actonservice.com
 dollardelta.com
+dollarthrill.com
 dolphin.deliver.ifeng.com
 dolrfm.fotoregistro.com.br
 domainbntest.branchcustom.xyz
@@ -11391,6 +11400,7 @@ dqs3.darjeeling.fr
 dqs.actonservice.com
 dqsfil.pikolinos.com
 dr6vcclmzwk74.cloudfront.net
+dragonbats.com
 drainpaste.com
 dramaticdirection.com
 drau.viessmann.si
@@ -11495,6 +11505,7 @@ dyecloud.com
 dyghye.fashionesta.com
 dynamic-content.croquetteland.com
 dynamic.ziftsolutions.com
+dynatrace.att.com
 dyqebg.aboutyou.hr
 dysbvu.bodyandfit.com
 dyzmpx.speedway.fr
@@ -11846,7 +11857,6 @@ ef71.pandasuite.io
 efadyz.smartbuyglasses.co.nz
 efbenj.adorebeauty.com.au
 e.fdm.dk
-effect.habr.com
 effervescentcoral.com
 effervescentvista.com
 efficiency.nl.visma.com
@@ -13406,6 +13416,7 @@ fog.pixual.co
 fokbrd.impo.ch
 followborder.com
 foodbrochure.advancedtech.com
+foodczar.com
 foodfunfestivals.com
 food.informaengage.com
 foodpackaging.kpfilms.com
@@ -13583,6 +13594,7 @@ frankwatching.actonservice.com
 franoppnetwork.actonservice.com
 franticroof.com
 fraudandcyberawareness.safeguard.hsbc.com
+fraysystems.com
 frbdzc.goguynet.jp
 frbmdx.fwrd.com
 fr.contact.alphabet.com
@@ -13605,6 +13617,7 @@ freezingbuilding.com
 frenchgerleman.actonservice.com
 frequentflesh.com
 freshatl.azurewebsites.net
+freshlyhuman.com
 fresnel-events.vimeocdn.com
 fr-go.experian.com
 fridaymarketing.actonservice.com
@@ -14957,7 +14970,6 @@ hauhws.asgoodasnew.de
 hauixd.halistores.com
 hauzdj.quellogiusto.it
 haxdym.min-breeder.com
-haystack.wavve.com
 hazawl.veke.fi
 hazmatworkshop.com
 hbaazk.bukalapak.com
@@ -16978,6 +16990,7 @@ insight.velocify.com
 insight.wittkieffer.com
 insitez.blob.core.windows.net
 ins.leavitt.com
+inspirebees.com
 inspire.changehealthcare.com
 inspire.ubmfashion.com
 instagram.xx.fbcdn.net.iberostar.com
@@ -17200,6 +17213,7 @@ isharemetric.rediff.com
 i.shelf.im
 ish.tumedia.no
 isjoui.cainz.com
+islandwebhelp.com
 is.lg.com
 is-log.furunavi.jp
 isoplexis.actonservice.com
@@ -17637,6 +17651,7 @@ kennisdomein.pqr.com
 keoofp.gulfnews.com
 kep6.destinia.ie
 keqglr.panvel.com
+kernellife.com
 kernenergie.efscle.com
 kesko.actonservice.com
 kestlerfinancial.actonservice.com
@@ -23592,6 +23607,7 @@ myretailmatch.actonservice.com
 my.showin.gs
 mysingleromance.com
 mysite.webroot.com
+mysketchpad.com
 my-staging.villa.ge
 mystery.vfmleonardo.com
 mysticalagoon.com
@@ -23716,6 +23732,7 @@ net.voopter.com.br
 network.cogentco.com
 network.conterra.com
 networkingexchange.att.com
+networklast.com
 network.lightpathfiber.com
 networkprotection.mcafee.com
 networks.balluff.com
@@ -24156,6 +24173,7 @@ offers.la-z-boy.com
 offer.slgnt.eu
 offers.storagepipe.com
 offgridcrops.com
+offshoreassets.com
 offshorecyclone.com
 offshoregeology.com
 ofgreencolumn.com
@@ -26635,6 +26653,7 @@ rnnstu.rentbeforeowning.com
 rnybul.gismeteo.lv
 rnybul.gismeteo.md
 rnyhid.pepperfry.com
+roaddynamics.com
 roadwalks.com
 ro.aiwan4399.com
 robotflowermobile.com
@@ -27647,6 +27666,7 @@ s.durhamregion.com
 seadform.net
 seahorseinfo.agilent.com
 sealingdev.actonservice.com
+sealtravels.com
 seamarketny.actonservice.com
 seao.business.samsung.com
 search.anonymous.ads.brave.com
@@ -28418,6 +28438,7 @@ s.guelphmercury.com
 sgw-analytics.panasonic.com
 sgwhvw.alura.com.br
 shadeship.com
+shadowmade.com
 shaggytank.com
 shakegoldfish.com
 shakysurprise.com
@@ -32405,6 +32426,7 @@ squalidscrew.com
 squarecamel.com
 squeakzinc.com
 squealingturn.com
+squidlogic.com
 squirrel.cividi.ch
 squirrel.malaynahocker.com
 squishybears.com
@@ -33123,6 +33145,7 @@ starify.appsonic.fr
 starkscale.com
 starman.fathomdns.com
 starman.floorcleanse.co.uk
+starsmarter.com
 start.adelaide.edu.au
 startercost.com
 start.hearsaysocial.com
@@ -34280,6 +34303,7 @@ storea8tracking.alc.co.jp
 store.echovisuals.com
 store.esquirrel.at
 stormwind.actonservice.com
+stormyflower.com
 s.toronto.com
 s.toyotafinancial.com
 st.picshuffle.com
@@ -34387,6 +34411,7 @@ sturdysnail.com
 sturton-lation.com
 stw.extrem-down.zone
 st.wir-entdecken-bayern.de
+stylelockers.com
 styles.hautelook.com
 stylishbuds.com
 su1.les-suites.ca
@@ -40718,6 +40743,7 @@ wqytxm.kurly.com
 wrapstretch.com
 wretchedfloor.com
 wrhv.education.gouv.fr
+writerhubs.com
 writewealth.com
 wrkbha.lyst.de
 wrlnvt.pepita.hu

@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 05 Nov 2025 15:59 UTC+7
-# Version: 2511051559
-# Blocked: 19.084 domains
+# Last modified: 14 Nov 2025 10:31 UTC+7
+# Version: 2511141031
+# Blocked: 19.091 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -228,6 +228,10 @@
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
 0.0.0.0 ep3.adtrafficquality.google
+#[google]
+0.0.0.0 syndicatedsearch.goog
+0.0.0.0 adsensecustomsearchads.com
+0.0.0.0 www.adsensecustomsearchads.com
 #[app-ads-services.com]
 0.0.0.0 app-ads-services.com
 0.0.0.0 odm.app-ads-services.com
@@ -14516,7 +14520,6 @@
 0.0.0.0 adsdk.com
 0.0.0.0 adsemo.com
 0.0.0.0 adsend.de
-0.0.0.0 adsensecustomsearchads.com
 0.0.0.0 adserv.etv.sale
 0.0.0.0 adserve.ams.rhythmxchange.com
 0.0.0.0 adserver-e7.com
@@ -15445,6 +15448,7 @@
 0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.adt574.com
 0.0.0.0 cdn.adt598.com
+0.0.0.0 cdn.banhq.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.easyads28.mobi
 0.0.0.0 cdn.exmarketplace.com
@@ -16094,6 +16098,7 @@
 0.0.0.0 eehuzaih.com
 0.0.0.0 eeksoabo.com
 0.0.0.0 eemsouftas.com
+0.0.0.0 eetchauglair.net
 0.0.0.0 eezegrip.net
 0.0.0.0 effacedefend.com
 0.0.0.0 effateuncrisp.com
@@ -16572,6 +16577,7 @@
 0.0.0.0 gullyending.com
 0.0.0.0 gunggo.com
 0.0.0.0 guppymedia.com
+0.0.0.0 gusabfluchu.com
 0.0.0.0 gutackaxgo.com
 0.0.0.0 guvnatar.com
 0.0.0.0 gvsnhzmjr.com
@@ -16615,6 +16621,7 @@
 0.0.0.0 hbwncbwgyvgt.com
 0.0.0.0 hcetcuwit.com
 0.0.0.0 hcilralhi.com
+0.0.0.0 hcjfmbra.com
 0.0.0.0 hdatssfpxrwbxs.com
 0.0.0.0 healflowers.com
 0.0.0.0 healthsmd.com
@@ -17900,6 +17907,7 @@
 0.0.0.0 oxado.com
 0.0.0.0 oxcash.com
 0.0.0.0 oxen.hillcountrytexas.com
+0.0.0.0 oxldadxib.com
 0.0.0.0 oxthrilled.com
 0.0.0.0 oxwlhazto.com
 0.0.0.0 ozbkfuhpuolf.com
@@ -18996,7 +19004,6 @@
 0.0.0.0 sympathydistinguish.com
 0.0.0.0 syndetstermine.com
 0.0.0.0 syndicate.purch.com
-0.0.0.0 syndicatedsearch.goog
 0.0.0.0 syndicpop.com
 0.0.0.0 synonymdetected.com
 0.0.0.0 synz.liveonce.online
@@ -20699,6 +20706,7 @@
 0.0.0.0 www.w3counter.com
 0.0.0.0 www.youmi.net
 0.0.0.0 x.disq.us
+0.0.0.0 xmirex.com
 0.0.0.0 xstats.evoload.io
 0.0.0.0 ylog.huya.com
 0.0.0.0 ymtracking.com
