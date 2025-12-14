@@ -1,5 +1,5 @@
 # Admiral, parsed and mirrored by https://firebog.net
-# Updated 10NOV25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+# Updated 08DEC25 from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,7 +7,6 @@
 
 # Please contact the original maintainer for any list corrections
 
-2znp09oa.com
 2znp09oa.com
 4jnzhl0d0.com
 82o9v830.com
@@ -29,6 +28,7 @@ accuratecoal.com
 acidicstraw.com
 acidpigs.com
 acridtwist.com
+actoramusement.com
 actuallysheep.com
 actuallysnake.com
 adamantsnail.com
@@ -38,7 +38,6 @@ admiral.network
 admiral.support
 admiral.website
 admiralcdn.com
-admiralexternal.com
 admlcdn.com
 adorableanger.com
 adorableattention.com
@@ -49,6 +48,7 @@ agreeablearch.com
 agreeabletouch.com
 aheadday.com
 aheadgrow.com
+aheadmachine.com
 ak0gsh40.com
 aliasanvil.com
 alikeaddition.com
@@ -99,7 +99,6 @@ averageactivity.com
 awakebird.com
 awarealley.com
 awzbijw.com
-axiomaticalley.com
 axiomaticanger.com
 azuremystique.com
 azurestealth.com
@@ -143,6 +142,7 @@ billowybead.com
 billowybelief.com
 binspiredtees.com
 birthdaybelief.com
+bitterbear.com
 blackbrake.com
 bleachbubble.com
 bleachscarecrow.com
@@ -179,6 +179,7 @@ bravebone.com
 bravecalculator.com
 breadbalance.com
 breakableinsurance.com
+breakerror.com
 breakfastboat.com
 breezybright.com
 breezygrove.com
@@ -200,7 +201,6 @@ bumpydevelopment.com
 bunchance.com
 bungeesleeves.com
 burgersalt.com
-burlywhistle.com
 burnbubble.com
 bushesbag.com
 businessbells.com
@@ -228,7 +228,6 @@ captivatingpanorama.com
 captivatingperformance.com
 carefuldolls.com
 caringcast.com
-caringzinc.com
 carloforward.com
 carpentercomparison.com
 cartelsalsa.com
@@ -240,7 +239,6 @@ catschickens.com
 cattlecommittee.com
 catventions.com
 causecherry.com
-cautiouscamera.com
 cautiouscherries.com
 cautiouscrate.com
 cautiouscredit.com
@@ -267,7 +265,6 @@ childlikecrowd.com
 childlikeexample.com
 childlikeform.com
 chingovernment.com
-chinsnakes.com
 chipperisle.com
 chivalrouscord.com
 chubbycreature.com
@@ -281,6 +278,7 @@ clarifyverse.com
 cleanhaircut.com
 clearcomb.com
 cloisteredcurve.com
+closedcows.com
 cloudhustles.com
 cloudjumbo.com
 clumsycar.com
@@ -291,7 +289,6 @@ coffeesidehustle.com
 coldbalance.com
 coldcallpro.com
 coloradoserves.com
-colorfulafterthought.com
 colossalclouds.com
 colossalcoat.com
 colossalcry.com
@@ -312,7 +309,6 @@ configchain.com
 confirmglobal.com
 confusedcart.com
 connectashelf.com
-consciouschairs.com
 consciouscheese.com
 consciousdirt.com
 consultantchow.com
@@ -390,7 +386,6 @@ dashingdrop.com
 datastoried.com
 daymodern.com
 dazzlingbook.com
-deafeningdock.com
 debonairdust.com
 debonairtree.com
 decidedrum.com
@@ -403,7 +398,6 @@ deerbeginner.com
 defeatedbadge.com
 defensevest.com
 degreechariot.com
-delegatediscussion.com
 delicatecascade.com
 deliciousducks.com
 delightdriving.com
@@ -444,11 +438,9 @@ dragzebra.com
 drainpaste.com
 dramaticdirection.com
 dreamsdome.com
-dreamycanyon.com
 driftingchef.com
 driftpizza.com
 drollwharf.com
-drydrum.com
 dustydime.com
 dustyhammer.com
 dyecloud.com
@@ -468,7 +460,6 @@ effervescentvista.com
 efficaciouscactus.com
 effulgentnook.com
 effulgenttempest.com
-ejyymghi.com
 elasticchange.com
 elderlybean.com
 elderlytown.com
@@ -566,7 +557,6 @@ financefear.com
 firecatfilms.com
 fireworkcamp.com
 firstendpoint.com
-firsttexture.com
 fishersfinds.com
 fitmessage.com
 fivesidedsquare.com
@@ -591,6 +581,7 @@ floweryoperation.com
 flushingbeast.com
 flutteringfireman.com
 foambench.com
+foamyfood.com
 followborder.com
 foodfunfestivals.com
 forecasttiger.com
@@ -607,7 +598,7 @@ frequentflesh.com
 friedone.com
 friendlycrayon.com
 friendlyfold.com
-frogator.com
+frightenedpotato.com
 fronttoad.com
 frugalfiestas.com
 fuelreaction.com
@@ -615,7 +606,6 @@ fumblingform.com
 functionalcrown.com
 functionalfeather.com
 funoverbored.com
-furnstudio.com
 furryfork.com
 fusedcontent.com
 futuristicfifth.com
@@ -630,7 +620,6 @@ gaudyairplane.com
 geekactive.com
 geekbackyard.com
 generalprose.com
-generateoffice.com
 getadmiral.com
 getdrip.com
 getwagtail.com
@@ -752,11 +741,9 @@ illustriousoatmeal.com
 immensehoney.com
 imminentshake.com
 importantmeat.com
-importedincrease.com
 importedinsect.com
 impossibleexpansion.com
 impulsejewel.com
-impulselumber.com
 incomehippo.com
 incompetentjoke.com
 inconclusiveaction.com
@@ -773,11 +760,9 @@ internalsink.com
 inventtango.com
 iotapool.com
 iridescentdusk.com
-irritatingfog.com
 itemslice.com
 ivykiosk.com
 j93557g.com
-jadeitite.com
 jaderooster.com
 jailbulb.com
 joblessdrum.com
@@ -883,8 +868,6 @@ marketspiders.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
-marrowleaves.com
-massivemark.com
 materialisticmoon.com
 materialmilk.com
 materialmoon.com
@@ -960,7 +943,6 @@ neatbadger.com
 neatshade.com
 nebulacrescent.com
 nebulajubilee.com
-nebulousamusement.com
 nebulousgarden.com
 nebulousquasar.com
 nebulousripple.com
@@ -997,14 +979,13 @@ oafishchance.com
 oafishobservation.com
 objecthero.com
 obscenesidewalk.com
-observantice.com
 offerniche.com
 offgridcrops.com
 offshorecyclone.com
 offshoregeology.com
 oldfashionedoffer.com
 omgthink.com
-omniscientfeeling.com
+omniscientspark.com
 onedropocean.com
 onlywoofs.com
 opalquill.com
@@ -1044,7 +1025,6 @@ pawsnug.com
 peacefullimit.com
 pedropanther.com
 pegsbuttons.com
-perceivequarter.com
 perkyjade.com
 phonecup.com
 photohints.com
@@ -1238,7 +1218,6 @@ rulerabbit.com
 ruralrobin.com
 rusticprice.com
 ruthlessdegree.com
-ruthlessmilk.com
 sableshelf.com
 sablesmile.com
 sablesong.com
@@ -1302,7 +1281,6 @@ seedscissors.com
 seenvault.com
 seespice.com
 selectivesummer.com
-selfishsea.com
 selfishsnake.com
 sendingspire.com
 sentrymagic.com
@@ -1353,6 +1331,7 @@ sillyscrew.com
 simplenaming.com
 simplesidewalk.com
 simplisticnose.com
+simplisticstem.com
 simulateswing.com
 sincerebuffalo.com
 sincerepelican.com
@@ -1367,7 +1346,6 @@ skisofa.com
 skullmagnets.com
 slaysweater.com
 slickcontent.com
-slimyscarf.com
 slinksuggestion.com
 slopesoap.com
 sloppycalculator.com
@@ -1394,7 +1372,6 @@ sneezecovers.com
 snoresmile.com
 snowmentor.com
 soggysponge.com
-soggyzoo.com
 solarislabyrinth.com
 soleblinds.com
 solidsub.com
@@ -1445,7 +1422,6 @@ springsnails.com
 sproutingbag.com
 sprysummit.com
 spuriousair.com
-spuriousbase.com
 spurioussquirrel.com
 spurioussteam.com
 spuriousstranger.com
@@ -1522,11 +1498,10 @@ subsequentstew.com
 substantialgrade.com
 substantialstraw.com
 succeedscene.com
-suddensidewalk.com
+suddensnake.com
 suddensoda.com
 sugarcurtain.com
 suggestionbridge.com
-sulkybutter.com
 sulkycook.com
 summerhamster.com
 summerobject.com
@@ -1576,13 +1551,11 @@ teenytinyshirt.com
 teenytinytongue.com
 telephoneapparatus.com
 tempertrick.com
-tempttalk.com
 temptteam.com
 tendertest.com
 tenhourweek.com
 tennistie.com
 terriblethumb.com
-terrifictooth.com
 testadmiral.com
 testedtouch.com
 texturetrick.com
@@ -1591,7 +1564,6 @@ therapeuticcars.com
 thesolartime.com
 thingsafterthought.com
 thingstaste.com
-thinkablefloor.com
 thinkitten.com
 thinkitwice.com
 thirdrespect.com
@@ -1618,7 +1590,6 @@ tofusquirrel.com
 toolcapital.com
 toomanyalts.com
 topcrazypress.com
-torpidtongue.com
 touristfuel.com
 toweringanswer.com
 toysbasics.com
@@ -1629,6 +1600,7 @@ tradetooth.com
 tranquilcan.com
 tranquilcanyon.com
 tranquilplume.com
+tranquilside.com
 tranquilveil.com
 tranquilveranda.com
 trappush.com
@@ -1671,6 +1643,7 @@ unitedscans.com
 unknowncrate.com
 unknownidea.com
 unloadyourself.com
+untidyquestion.com
 untidyrice.com
 unusedquestion.com
 unusualtitle.com
@@ -1731,6 +1704,7 @@ wayjoyfarm.com
 websitesdude.com
 wellgroomedapparel.com
 wellgroomedhydrant.com
+wellmadefrog.com
 whimsicalcanyon.com
 whimsicalgrove.com
 whimsicalvantage.com
