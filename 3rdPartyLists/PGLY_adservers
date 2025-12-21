@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Fri, 12 Dec 2025 08:56:54 GMT</b></td>
+<td><b class=blue>Thu, 18 Dec 2025 09:44:13 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3478 / 3478</b></td>
+<td><b class=blue>3485 / 3485</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 12 Dec 2025 08:56:54 GMT
-# entries:        3478
+# last updated:   Thu, 18 Dec 2025 09:44:13 GMT
+# entries:        3485
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -1439,6 +1439,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 convrse.media
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 cootlogix.com
+127.0.0.1 copperstills.net
 127.0.0.1 copycarpenter.com
 127.0.0.1 copyrightaccesscontrols.com
 127.0.0.1 coremetrics.com
@@ -1457,6 +1458,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 counter.snackly.co
 127.0.0.1 counting.kmindex.ru
 127.0.0.1 coupling-media.de
+127.0.0.1 cowbelltime.com
 127.0.0.1 coxmt.com
 127.0.0.1 cozyhillside.com
 127.0.0.1 cpalead.com
@@ -1600,6 +1602,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
+127.0.0.1 eighthlayer.net
 127.0.0.1 eiv.baidu.com
 127.0.0.1 elasticchange.com
 127.0.0.1 elderlytown.com
@@ -1866,6 +1869,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 haplesshydrant.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
+127.0.0.1 hayweb.net
 127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hb.vntsm.com
 127.0.0.1 hbb.afl.rakuten.co.jp
@@ -1882,6 +1886,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 hf5rbejvpwds.com
 127.0.0.1 hfc195b.com
 127.0.0.1 hgads.com
+127.0.0.1 highnoongear.com
 127.0.0.1 hightrafficads.com
 127.0.0.1 hilariouszinc.com
 127.0.0.1 histats.com
@@ -1941,6 +1946,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 iadnet.com
 127.0.0.1 ibillboard.com
 127.0.0.1 icptrack.com
+127.0.0.1 icywinter.com
 127.0.0.1 id5-sync.com
 127.0.0.1 idealadvertising.net
 127.0.0.1 idevaffiliate.com
@@ -3474,6 +3480,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 whisperingcrib.com
 127.0.0.1 whisperingsummit.com
 127.0.0.1 whoisonline.net
+127.0.0.1 wholepagecache.com
 127.0.0.1 wickedreports.com
 127.0.0.1 widget.educationdynamics.com
 127.0.0.1 widget.privy.com
