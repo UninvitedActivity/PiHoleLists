@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 16 Dec 2025 16:23 UTC+7
-# Version: 2512161623
-# Blocked: 19.175 domains
+# Last modified: 07 Jan 2026 10:52 UTC+7
+# Version: 2601071052
+# Blocked: 19.202 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9933,6 +9933,7 @@
 0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 #[adobe.com]
+0.0.0.0 aepxlg.adobe.com
 0.0.0.0 campaign.adobe.com
 0.0.0.0 geo.adobe.com
 0.0.0.0 sstats.adobe.com
@@ -11895,6 +11896,9 @@
 0.0.0.0 gx-target-experiments-frontend-api.gx.nvidia.com
 0.0.0.0 prod.otel.kaizen.nvidia.com
 0.0.0.0 telemetry.gfe.nvidia.com
+#[psvgamestudio.com]
+0.0.0.0 promo.psvgamestudio.com
+0.0.0.0 psvpromo.psvgamestudio.com
 # --- GroupVN block ---
 #[adtimaserver]
 0.0.0.0 adtimaserver.vn
@@ -13315,6 +13319,10 @@
 #[shopee.vn]
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 userstats.shopee.vn
+#[moneyoyo]
+0.0.0.0 api.moneyoyo.org
+0.0.0.0 feed.moneyoyo.org
+0.0.0.0 sdk.moneyoyo.com
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -13439,7 +13447,6 @@
 0.0.0.0 an.dongphim.net
 0.0.0.0 an.xemvtv.net
 0.0.0.0 api.boclinkads.com
-0.0.0.0 api.moneyoyo.org
 0.0.0.0 api2.boclinkads.com
 0.0.0.0 apia.headlines.pw
 0.0.0.0 avoadsservices.com
@@ -13461,6 +13468,7 @@
 0.0.0.0 cpx.vnecdn.com
 0.0.0.0 crocopop.com
 0.0.0.0 csmads.gameclick.vn
+0.0.0.0 delivery.congthuong.vn
 0.0.0.0 delivery.doisongphapluat.com.vn
 0.0.0.0 delivery.lsvn.vn
 0.0.0.0 delivery.senvangvn.com
@@ -13511,7 +13519,6 @@
 0.0.0.0 s.zzcdn.me
 0.0.0.0 s1.zzz.vn
 0.0.0.0 sbbanner.com
-0.0.0.0 sdk.moneyoyo.com
 0.0.0.0 server.zmedia.vn
 0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 sharks.vn
@@ -14835,6 +14842,7 @@
 0.0.0.0 alclick.com
 0.0.0.0 alebrinkfed.com
 0.0.0.0 alenty.com
+0.0.0.0 alexatracker.com
 0.0.0.0 alexisceilingrelease.com
 0.0.0.0 algorix.co
 0.0.0.0 alia-iso.com
@@ -15324,6 +15332,7 @@
 0.0.0.0 boxlikesedativespinach.com
 0.0.0.0 boxofwhisper.com
 0.0.0.0 boyaidare.club
+0.0.0.0 bpacihfabm.com
 0.0.0.0 bpaqzithab.com
 0.0.0.0 bpath.com
 0.0.0.0 bpipihwhumif.com
@@ -15511,6 +15520,7 @@
 0.0.0.0 cdntechone.com
 0.0.0.0 cdrvrs.com
 0.0.0.0 ceegrevoaphail.com
+0.0.0.0 ceksevairs.com
 0.0.0.0 celeritascdn.com
 0.0.0.0 celltick.com
 0.0.0.0 celoortdwt.com
@@ -15838,6 +15848,8 @@
 0.0.0.0 cutescale.online
 0.0.0.0 cuxdiqagcl.com
 0.0.0.0 cvvczlcg.com
+0.0.0.0 cwifabvze.com
+0.0.0.0 cwoamjkma.com
 0.0.0.0 cwqljsecvr.com
 0.0.0.0 cyberbounty.com
 0.0.0.0 cycledaction.com
@@ -15921,6 +15933,7 @@
 0.0.0.0 dataretinalsubtotal.com
 0.0.0.0 datatechonert.com
 0.0.0.0 dataxu.com
+0.0.0.0 datemefast.com
 0.0.0.0 datingprudethimble.com
 0.0.0.0 daudejuw.com
 0.0.0.0 daufouwhoag.net
@@ -16252,6 +16265,7 @@
 0.0.0.0 evergage.com
 0.0.0.0 evzhzppj5kel.com
 0.0.0.0 eweconciliate.com
+0.0.0.0 ewerlgufrpkg.com
 0.0.0.0 ewhareey.com
 0.0.0.0 ewpucbact.com
 0.0.0.0 exactag.com
@@ -16408,6 +16422,7 @@
 0.0.0.0 framestighterauthorize.com
 0.0.0.0 frameworkdeserve.com
 0.0.0.0 freakishmartyr.com
+0.0.0.0 freckledoutsiderundaunted.com
 0.0.0.0 free.srcdn.xyz
 0.0.0.0 freebanner.com
 0.0.0.0 freelinks.neocities.org
@@ -16499,6 +16514,7 @@
 0.0.0.0 giddycoat.com
 0.0.0.0 giggedguddle.com
 0.0.0.0 gimoqwmikakv.com
+0.0.0.0 gimxukhmcrbl.com
 0.0.0.0 ginchoirblessed.com
 0.0.0.0 ginpithed.live
 0.0.0.0 girls-only.online
@@ -16670,6 +16686,7 @@
 0.0.0.0 hazeabrasiverule.com
 0.0.0.0 hb.minutemedia-prebid.com
 0.0.0.0 hb.openwebmp.com
+0.0.0.0 hbntxrwmvf.com
 0.0.0.0 hbwncbwgyvgt.com
 0.0.0.0 hccaxtxfq.com
 0.0.0.0 hcetcuwit.com
@@ -17111,6 +17128,7 @@
 0.0.0.0 knorex.com
 0.0.0.0 knurleddeblock.guru
 0.0.0.0 knxabzznddtc.com
+0.0.0.0 koacocoosy.com
 0.0.0.0 kogutcho.net
 0.0.0.0 koindut.com
 0.0.0.0 kolkwi4tzicraamabilis.com
@@ -17198,6 +17216,7 @@
 0.0.0.0 lessemujust.live
 0.0.0.0 lfalfehuq.com
 0.0.0.0 lfeorrzkua.com
+0.0.0.0 lflaocoebfflttt.com
 0.0.0.0 lfstmedia.com
 0.0.0.0 lhsnvrgcvnvuy.online
 0.0.0.0 libedgolart.com
@@ -17444,6 +17463,7 @@
 0.0.0.0 metanetwork.com
 0.0.0.0 metanetwork.net
 0.0.0.0 metaresolver.com
+0.0.0.0 metatrckpixel.com
 0.0.0.0 methodcash.com
 0.0.0.0 metrics.ctv.ca
 0.0.0.0 metrics.foxnews.com
@@ -17454,6 +17474,7 @@
 0.0.0.0 mg2connext.com
 0.0.0.0 mgbid.net
 0.0.0.0 mgepuynxttyi.com
+0.0.0.0 mgpsxcge.com
 0.0.0.0 mgyccfrshz.com
 0.0.0.0 mhavfytafo.com
 0.0.0.0 mhelfiricbwa.com
@@ -17613,6 +17634,7 @@
 0.0.0.0 nan46ysangt28eec.com
 0.0.0.0 nangalupeose.com
 0.0.0.0 nappyattack.com
+0.0.0.0 nasadfgzaq.com
 0.0.0.0 nastedsuglu.com
 0.0.0.0 nastinessreplicaupload.com
 0.0.0.0 nastydollars.com
@@ -17960,6 +17982,7 @@
 0.0.0.0 ovrcuncunxp.com
 0.0.0.0 ovxhhurafpi.com
 0.0.0.0 owebmoney.ru
+0.0.0.0 owjaqdywlviyfe.com
 0.0.0.0 owjwhuaklf.com
 0.0.0.0 owlqahovgog.com
 0.0.0.0 owlsr.us
@@ -17975,6 +17998,7 @@
 0.0.0.0 oxldadxib.com
 0.0.0.0 oxthrilled.com
 0.0.0.0 oxwlhazto.com
+0.0.0.0 oyfuhknvk.com
 0.0.0.0 ozbkfuhpuolf.com
 0.0.0.0 ozbnagojbop.com
 0.0.0.0 ozctkohaqmc.com
@@ -18289,7 +18313,6 @@
 0.0.0.0 psootchu.net
 0.0.0.0 psoroumukr.com
 0.0.0.0 psstt.com
-0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 ptaixout.net
 0.0.0.0 ptakeemsaifegro.net
 0.0.0.0 ptauxofi.net
@@ -18333,6 +18356,7 @@
 0.0.0.0 pulse360.com
 0.0.0.0 pulseadnetwork.com
 0.0.0.0 pulvinioreodon.com
+0.0.0.0 pumaqmqix.com
 0.0.0.0 pumywyczbks.com
 0.0.0.0 punyplant.com
 0.0.0.0 puppyderisiverear.com
@@ -18471,6 +18495,7 @@
 0.0.0.0 rcvlink.com
 0.0.0.0 rcyorjkze.com
 0.0.0.0 rdbzasvjgmnk.com
+0.0.0.0 rdqysipvmuleeoy.com
 0.0.0.0 rdr.wargaming.net
 0.0.0.0 rduaagcwsw.com
 0.0.0.0 reachjunction.com
@@ -18487,6 +18512,7 @@
 0.0.0.0 realteencash.com
 0.0.0.0 realtracker.com
 0.0.0.0 rebelhen.com
+0.0.0.0 rebtpzkgtas.com
 0.0.0.0 recedechatprotestant.com
 0.0.0.0 receiptcent.com
 0.0.0.0 receptiveink.com
@@ -18904,6 +18930,7 @@
 0.0.0.0 son-in-lawmorbid.com
 0.0.0.0 songbagoozes.com
 0.0.0.0 songdew.pushengage.com
+0.0.0.0 sonyzetuxx.com
 0.0.0.0 soodejeego.net
 0.0.0.0 sordimtaulee.com
 0.0.0.0 sorrowfultrouble.com
@@ -19491,6 +19518,7 @@
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 utubepwhml.com
 0.0.0.0 uuomdlaslopcrx.com
+0.0.0.0 uvettjofogfozc.com
 0.0.0.0 uwoaptee.com
 0.0.0.0 uxumhgvends.com
 0.0.0.0 uyledjlevq.com
@@ -19982,6 +20010,7 @@
 0.0.0.0 yseyxucrhjfi.com
 0.0.0.0 ytimm.com
 0.0.0.0 ytjnpxiiqsblwb.com
+0.0.0.0 ytxwdnnlubenlm.com
 0.0.0.0 yu225.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
