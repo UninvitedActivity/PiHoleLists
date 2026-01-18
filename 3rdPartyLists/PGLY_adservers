@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Fri, 09 Jan 2026 18:06:39 GMT</b></td>
+<td><b class=blue>Tue, 13 Jan 2026 09:25:49 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3488 / 3488</b></td>
+<td><b class=blue>3498 / 3498</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 09 Jan 2026 18:06:39 GMT
-# entries:        3488
+# last updated:   Tue, 13 Jan 2026 09:25:49 GMT
+# entries:        3498
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -263,6 +263,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 adbrite.com
 127.0.0.1 adbroker.de
 127.0.0.1 adbutler.com
+127.0.0.1 adbuyer3.lycos.com
 127.0.0.1 adcampo.com
 127.0.0.1 adcannyads.com
 127.0.0.1 adcash.com
@@ -562,6 +563,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.mobilebet.com
 127.0.0.1 ads.mozilla.org
 127.0.0.1 ads.msn.com
+127.0.0.1 ads.multimania.lycos.fr
 127.0.0.1 ads.muslimehelfen.org
 127.0.0.1 ads.mvscoelho.com
 127.0.0.1 ads.myadv.org
@@ -639,6 +641,12 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.townhall.com
 127.0.0.1 ads.travelaudience.com
 127.0.0.1 ads.trinitymirror.co.uk
+127.0.0.1 ads.tripod.com
+127.0.0.1 ads.tripod.lycos.co.uk
+127.0.0.1 ads.tripod.lycos.de
+127.0.0.1 ads.tripod.lycos.es
+127.0.0.1 ads.tripod.lycos.it
+127.0.0.1 ads.tripod.lycos.nl
 127.0.0.1 ads.tso.dennisnet.co.uk
 127.0.0.1 ads.twitter.com
 127.0.0.1 ads.twojatv.info
@@ -1129,7 +1137,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 benfly.net
 127.0.0.1 berp.com
 127.0.0.1 bespoke.iln8.net
-127.0.0.1 best-click.pro
 127.0.0.1 bestboundary.com
 127.0.0.1 bestbuy.7tiv.net
 127.0.0.1 bewilderedblade.com
@@ -1505,7 +1512,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 d.adroll.com
 127.0.0.1 d1f0tbk1v3e25u.cloudfront.net
 127.0.0.1 d2cmedia.ca
-127.0.0.1 d2zd0wa1vpt7j9.cloudfront.net
 127.0.0.1 d81mfvml8p5ml.cloudfront.net
 127.0.0.1 dabiaozhi.com
 127.0.0.1 dacdn.visualwebsiteoptimizer.com
@@ -1662,6 +1668,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 eusta.de
 127.0.0.1 evadav.com
 127.0.0.1 evadavdsp.pro
+127.0.0.1 evencoating.com
 127.0.0.1 eventexistence.com
 127.0.0.1 events-eu.freshsuccess.com
 127.0.0.1 events-us.freshsuccess.com
@@ -1893,6 +1900,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 historytrade.com
 127.0.0.1 hit-parade.com
 127.0.0.1 hit.ua
+127.0.0.1 hit.webcentre.lycos.co.uk
 127.0.0.1 hitbox.com
 127.0.0.1 hitcounters.miarroba.com
 127.0.0.1 hitlist.ru
@@ -2264,7 +2272,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 medyanetads.com
 127.0.0.1 meetrics.net
 127.0.0.1 megacash.de
-127.0.0.1 megapu.sh
 127.0.0.1 megastats.com
 127.0.0.1 megawerbung.de
 127.0.0.1 meltmilk.com
@@ -2299,6 +2306,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 minibilling.com
 127.0.0.1 mintegral.com
 127.0.0.1 mittencattle.com
+127.0.0.1 mix2ads.com
 127.0.0.1 mixedreading.com
 127.0.0.1 mixpanel.com
 127.0.0.1 mkto-ab410147.com
@@ -2736,6 +2744,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 rapidcounter.com
 127.0.0.1 raresummer.com
 127.0.0.1 rate.ru
+127.0.0.1 ratings.lycos.com
 127.0.0.1 rayjump.com
 127.0.0.1 rcadserver.com
 127.0.0.1 re-direct.pl
@@ -2795,7 +2804,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 revive.haskovo.net
 127.0.0.1 revive.netriota.hu
 127.0.0.1 revive.plays.bg
-127.0.0.1 revlift.io
 127.0.0.1 revprotect.com
 127.0.0.1 revstats.com
 127.0.0.1 rexadvert.xyz
@@ -2906,6 +2914,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 servedbyopenx.com
 127.0.0.1 servethis.com
 127.0.0.1 services.hearstmags.com
+127.0.0.1 sessioncam.com
 127.0.0.1 sexcounter.com
 127.0.0.1 sexlist.com
 127.0.0.1 sextracker.com
@@ -2926,6 +2935,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 shrillspoon.com
 127.0.0.1 shxtrk.com
 127.0.0.1 sicksmash.com
+127.0.0.1 sidebar.angelfire.com
 127.0.0.1 signalayer.com
 127.0.0.1 sillyscrew.com
 127.0.0.1 silvermob.com
