@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Sat, 28 Feb 2026 12:16:22 GMT</b></td>
+<td><b class=blue>Wed, 04 Mar 2026 12:09:40 GMT</b></td>
 </tr>
 
 
@@ -77,7 +77,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Sat, 28 Feb 2026 12:16:22 GMT
+# last updated:   Wed, 04 Mar 2026 12:09:40 GMT
 # entries:        3509
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -895,6 +895,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 aerserv.com
 127.0.0.1 af-ad.co.uk
 127.0.0.1 affec.tv
+127.0.0.1 affectionknit.com
 127.0.0.1 affili.net
 127.0.0.1 affiliate.1800flowers.com
 127.0.0.1 affiliate.dtiserv.com
@@ -907,7 +908,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 affiliates.streamray.com
 127.0.0.1 affiliates.thinkhost.net
 127.0.0.1 affiliates.thrixxx.com
-127.0.0.1 affiliates.ultrahosting.com
 127.0.0.1 affiliatetracking.com
 127.0.0.1 affiliatetracking.net
 127.0.0.1 affiliatewindow.com
@@ -973,7 +973,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 analyticsapi.happypancake.net
 127.0.0.1 ancientact.com
 127.0.0.1 androiddownload.net
-127.0.0.1 angossa.com
 127.0.0.1 aniview.com
 127.0.0.1 annonser.dagbladet.no
 127.0.0.1 annoyedairport.com
@@ -1249,6 +1248,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 carbonads.net
 127.0.0.1 cardmethod.com
 127.0.0.1 caringcast.com
+127.0.0.1 carsarace.com
 127.0.0.1 cartstack.com
 127.0.0.1 carvecakes.com
 127.0.0.1 casalemedia.com
@@ -1434,7 +1434,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 content22.online.citi.com
 127.0.0.1 contextweb.com
 127.0.0.1 contrack.link
-127.0.0.1 controlcola.com
 127.0.0.1 converge-digital.com
 127.0.0.1 conversantmedia.com
 127.0.0.1 conversionbet.com
@@ -2315,6 +2314,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 minewhat.com
 127.0.0.1 minibilling.com
 127.0.0.1 mintegral.com
+127.0.0.1 mintfunnel.co
 127.0.0.1 mittencattle.com
 127.0.0.1 mix2ads.com
 127.0.0.1 mixpanel.com
@@ -2442,7 +2442,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ntvk1.ru
 127.0.0.1 nullitics.com
 127.0.0.1 nuseek.com
-127.0.0.1 nutritiousbean.com
 127.0.0.1 nzaza.com
 127.0.0.1 o2.mouseflow.com
 127.0.0.1 o333o.com
@@ -2457,6 +2456,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 oascentral.register.com
 127.0.0.1 objecthero.com
 127.0.0.1 obscenesidewalk.com
+127.0.0.1 oceancloudhosts.com
 127.0.0.1 oclasrv.com
 127.0.0.1 odbierz-bony.ovp.pl
 127.0.0.1 oewa.at
@@ -2647,6 +2647,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 prf.hn
 127.0.0.1 priceypies.com
 127.0.0.1 pricklydebt.com
+127.0.0.1 prideproms.com
 127.0.0.1 primetime.net
 127.0.0.1 privatecash.com
 127.0.0.1 prmtracking.com
@@ -2912,7 +2913,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 sendmepixel.com
 127.0.0.1 seraphichorizon.com
 127.0.0.1 serendipityecho.com
-127.0.0.1 serpentshampoo.com
 127.0.0.1 serv0.com
 127.0.0.1 servclick1move.com
 127.0.0.1 serve.tercept.com
